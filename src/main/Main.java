@@ -8,6 +8,8 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
+    
+        System.out.println("why doesn't this show on github?");
     }
     
     private static String foo() {
